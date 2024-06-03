@@ -1,0 +1,105 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/certain-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule3:
+  class: File
+  path: python/infarction---secondary.py
+inputModule4:
+  class: File
+  path: python/subsequent-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule5:
+  class: File
+  path: python/subendocardial-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule6:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-inferior---secondary.py
+inputModule7:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-anterior---secondary.py
+inputModule8:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule9:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-ruptur---secondary.py
+inputModule10:
+  class: File
+  path: python/coronary-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule11:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-nonst---secondary.py
+inputModule12:
+  class: File
+  path: python/posterolateral-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule13:
+  class: File
+  path: python/septal-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule14:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-insulinglucose---secondary.py
+inputModule15:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-muscle---secondary.py
+inputModule16:
+  class: File
+  path: python/transmural-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule17:
+  class: File
+  path: python/postoperative-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule18:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-inferoposterior---secondary.py
+inputModule19:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-defect---secondary.py
+inputModule20:
+  class: File
+  path: python/inferolateral-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule21:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-thrombosis---secondary.py
+inputModule22:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-artery---secondary.py
+inputModule23:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-complication---secondary.py
+inputModule24:
+  class: File
+  path: python/atrial-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule25:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-haemopericardium---secondary.py
+inputModule26:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-heart---secondary.py
+inputModule27:
+  class: File
+  path: python/anteroapical-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule28:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-history---secondary.py
+inputModule29:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-elevation---secondary.py
+inputModule30:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-dressler---secondary.py
+inputModule31:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-folow---secondary.py
+inputModule32:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-unspecified---secondary.py
+inputModule33:
+  class: File
+  path: python/other-ccu002_01-acute-myocardial-infarction---secondary.py
+inputModule34:
+  class: File
+  path: python/ccu002_01-acute-myocardial-infarction-posterior---secondary.py
+inputModule35:
+  class: File
+  path: python/output-cases.py
